@@ -1,4 +1,4 @@
-# Chocolate Sales Analysis (Excel)
+# Cadbury Sales Analysis (Excel)
 
 ## Overview
 - Analysed 500+ rows of sales data using Advanced Excel
