@@ -17,4 +17,4 @@
 - Identified monthly sales trends and peak periods
 
 ## Files Included
-- chocolate_sales.xlsx
+- cadbury_sales.xlsx
